@@ -1,8 +1,3 @@
-<h1 align="center">Hi 👋, I'm Shamim Ashraf</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shamimashraf&label=Profile%20views&color=0e75b6&style=flat" alt="shamimashraf" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shamimashraf" alt="shamimashraf" /></a> </p>
-
 - 🌱 I’m currently learning **JavaScript**
 
 - 💬 Ask me about **Web Development**
