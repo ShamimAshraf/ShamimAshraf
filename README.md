@@ -1,5 +1,3 @@
-- 🌱 I’m currently learning **JavaScript**
-
 - 💬 Ask me about **Web Development**
 
 - 📫 How to reach me **dailyshamim@gmail.com**
